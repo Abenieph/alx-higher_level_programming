@@ -69,17 +69,4 @@ class Rectangle:
     def __repr__(self):
         """returns a string representation of the rectangle for reproduction"""
         return "Rectangle({:d}, {:d})".format(self.__width, self.__height)
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-[A[C[C[A[C[C[A[C[C[C[C[C[C[[A[C[C[A[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[A[C[C[[A[C[C[C[A[C[C[C[C[B[A[A[C[C[C[[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
